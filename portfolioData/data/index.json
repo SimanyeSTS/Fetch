@@ -1,0 +1,244 @@
+{
+    "jobTitle": [
+        {
+            "id": 1,
+            "title": "Software Developer",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "title": "DevOps Engineer",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "title": "Professional Gamer",
+            "image": ""
+        }
+    ],
+    "about": [
+        {
+            "id": 1,
+            "description": "I am an aspiring full-stack software developer enthusiastic about contributing to team achievements through diligence, meticulousness, and exceptional organizational abilities. I thrive as a well-coordinated and cooperative team member, equipped with robust communication and analytical skills. I am committed to enhancing my expertise through practical learning and development initiatives, with a keen focus on tasks like pulling, merging, and analyzing data to discern patterns and trends. I am particularly drawn to roles where I can oversee the security of both physical and cloud infrastructure, be able to provide seamless user interfaces that do not conflict with design and compliance concerns, to devise preemptive strategies.",
+            "image": ""
+        }
+    ],
+    "resume": {
+        "Education": [
+            {
+                "id": 1,
+                "title": "2024",
+                "description": "I currently attend Life Choices Coding Academy which is a web development course to be able to design and implement webpages so I can be a more robust software developer.",
+                "image": ""
+            },
+            {
+                "id": 2,
+                "title": "2019-2023",
+                "description": "I was enrolled in Oaklands High School based in Lansdowne, Cape Town from Grade 8. As a maths and science school it is where I discovered my love for computers. I completed my matric in 2023 with a bachelors pass.",
+                "image": ""
+            },
+            {
+                "id": 3,
+                "title": "2011-2018",
+                "description": "I attended Belthorn Primary School in Athlone, Cape Town from Grade R which laid a solid foundation for me as a school primarily focused on virtues and I completed 7th Grade in 2018.",
+                "image": ""
+            }
+        ],
+        "Skills": [
+            {
+                "id": 1,
+                "title": "HyperText Markup Language (HTML)",
+                "description": "Intermediate",
+                "logo": ""
+            },
+            {
+                "id": 2,
+                "title": "Cascading Stylesheet (CSS)",
+                "description": "Intermediate",
+                "logo": ""
+            },
+            {
+                "id": 3,
+                "title": "Bootstrap",
+                "description": "Intermediate",
+                "logo": ""
+            },
+            {
+                "id": 4,
+                "title": "JavaScript",
+                "description": "Beginner",
+                "logo": ""
+            },
+            {
+                "id": 5,
+                "title": "Vue.js",
+                "description": "Beginner",
+                "logo": ""
+            },
+            {
+                "id": 6,
+                "title": "Node.js",
+                "description": "Beginner",
+                "logo": ""
+            },
+            {
+                "id": 7,
+                "title": "MySQL",
+                "description": "Intermediate",
+                "logo": ""
+            },
+            {
+                "id": 8,
+                "title": "C-Sharp (C#)",
+                "description": "Proficient",
+                "logo": ""
+            },
+            {
+                "id": 9,
+                "title": "Java",
+                "description": "Advanced",
+                "logo": ""
+            },
+            {
+                "id": 10,
+                "description": "•Computer Literate - Able to utilize Microsoft Office Programs"
+            },
+            {
+                "id": 11,
+                "description": "•Proficient in the English Language"
+            },
+            {
+                "id": 12,
+                "description": "•Possess Presentations skills"
+            },
+            {
+                "id": 13,
+                "description": "•Multitasking"
+            },
+            {
+                "id": 14,
+                "description": "•Analytical thinking"
+            },
+            {
+                "id": 15,
+                "description": "•Conflict resolution"
+            },
+            {
+                "id": 16,
+                "description": "•Innovative"
+            }
+        ],
+        "Extracurricular Activities": [
+            {
+                "id": 1,
+                "description": "•Computer Lessons - Computer Literate"
+            },
+            {
+                "id": 2,
+                "description": "•Chess Club - Critical Thinking"
+            },
+            {
+                "id": 3,
+                "description": "•Environmental Club - Neatliness"
+            }
+        ],
+        "Volunteering Experience": [
+            {
+                "id": 1,
+                "description": "•Job shadowing at Eerste River Hospital for a duration of 2 years (2021-2022) during school holidays - Working in a fast paced environment"
+            },
+            {
+                "id": 2,
+                "description": "•Assisting prefects with their duties throughout the course of 2023 - Teamwork and Compassion"
+            }
+        ]
+    },
+    "Projects": [
+        {
+            "id": 1,
+            "title": "SS Retro Records",
+            "description": "SS Retro Records is an e-commerce site I developed to showcase my knowledge in JavaScript. It utilizes local storage.",
+            "hosted": "",
+            "gitHub": "",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "title": "Swegga Fashion",
+            "description": "The Swegga Fashion website features products like female and male jackets, available in various sizes and colors. Each product listing includes a brief description, size options, color choices, price, quantity, and total cost. The site also provides a section to confirm and process orders.",
+            "hosted": "",
+            "gitHub": "",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "title": "BMI Calculator",
+            "description": "This BMI Calculator assists users in knowing their BMI by putting in values like their height and weight.",
+            "hosted": "",
+            "gitHub": "",
+            "image": ""
+        },
+        {
+            "id": 4,
+            "title": "To-Do List",
+            "description": "The To-Do List website allows users to add and manage tasks. The interface includes options to add a new task, view the list of tasks, and sort them.",
+            "hosted": "",
+            "gitHub": "",
+            "image": ""
+        },
+        {
+            "id": 5,
+            "title": "Temperature Converter",
+            "description": "The Temperature Converter website allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. Users can input a temperature value, select the units for conversion, and get the converted temperature instantly.",
+            "hosted": "",
+            "gitHub": "",
+            "image": ""
+        },
+        {
+            "id": 6,
+            "title": "Calculator",
+            "description": "A very basic calculator able to perform calculations. Main highlight of it is the ability to make use of CSS.",
+            "hosted": "",
+            "gitHub": "",
+            "image": ""
+        }
+    ],
+    "Testimonials": [
+        {
+            "id": 1,
+            "title": "Abdurahmaan Charif",
+            "description": "Working with Simanye Somdaka has been an absolute pleasure. His portfolio showcases not only his technical prowess but also his dedication to delivering high-quality solutions. What stands out the most is his ability to think critically and creatively, finding innovative solutions to complex problems. His projects demonstrate a deep understanding of software development principles and best practices. Moreover, his collaboration skills are top-notch, he is always willing to lend a helping hand and communicate effectively within the team. I highly recommend Simanye Somdaka to anyone looking for a talented and reliable developer.",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "title": "Lonke Hintsho",
+            "description": "I've had the opportunity to collaborate with Simanye Somdaka on several projects, and I must say, his portfolio speaks volumes about his expertise and passion for software development. Each project is a testament to his commitment to excellence and his ability to adapt to different technologies and challenges. What I appreciate most about working with him is his proactive approach to problem-solving, he does not just fix issues but anticipate them and implement preventive measures. Additionally, his code is clean, well-documented, and maintainable, making it easy for others to understand and build upon. Simanye Somdaka is undoubtedly a valuable asset to any team, and I look forward to seeing his continued growth and success in the field.",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "title": "Kyle Brink",
+            "description": "Simanye Somdaka's software development portfolio is a testament to his dedication and expertise in the field. Throughout our class projects, Simanye consistently showcased his strong problem-solving skills and attention to detail. His contributions were invaluable, often going above and beyond to ensure the success of our team's projects. His portfolio reflects his ability to tackle diverse challenges and deliver innovative solutions. Simanye's professionalism and collaborative nature make him a pleasure to work with, and I have no doubt that he will excel in any software development role he pursues.",
+            "image": ""
+        },
+       {
+            "id": 4,
+            "title": "Mbalentle Diko",
+            "description": "As a classmate of Simanye Somdaka, I have had the pleasure of witnessing his growth and proficiency in software development firsthand. His portfolio is a comprehensive showcase of his technical skills and creativity. Simanye's projects are not only impressive in their execution but also demonstrate his deep understanding of software engineering principles. What sets Simanye apart is his willingness to mentor and assist others. He is always approachable and patient, providing valuable insights and guidance to his peers. I highly recommend Simanye to any team looking for a talented and collaborative software developer.",
+            "image": ""
+        },
+        {
+            "id": 5,
+            "title": "Nasheeta Jacobs",
+            "description": "Simanye Somdaka is an exceptional software developer whose portfolio reflects his passion for creating elegant solutions to complex problems. Having worked with him closely on class projects, I can attest to his strong work ethic and commitment to excellence. Simanye's projects stand out for their clarity, efficiency, and attention to user experience. He has a knack for turning ideas into reality and consistently delivers results that exceed expectations. Beyond his technical abilities, Simanye is a fantastic teammate, always ready to lend a helping hand and share his expertise. It's been a pleasure collaborating with him, and I have no doubt that he will continue to thrive in his software development journey.",
+            "image": ""
+        },
+        {
+            "id": 6,
+            "title": "Zizipho Copiso",
+            "description": "I've had the privilege of collaborating with Simanye Somdaka on multiple software development projects during our time in class, and I have been consistently impressed by his skills and professionalism. His portfolio showcases a diverse range of projects, each demonstrating his mastery of various programming languages and technologies. Simanye's code is clean, well-structured, and thoroughly documented, making it easy for others to understand and build upon. What truly sets him apart is his proactive approach to problem-solving and his ability to adapt to new challenges with ease. Simanye's contributions have been instrumental to the success of our team, and I have no hesitation in recommending him as a highly capable software developer.",
+            "image": ""
+        }
+    ]
+}
